@@ -43,12 +43,18 @@
 	<button type = "submit" name = "submit2"  value = "どんでん返し系が見たい！" class = "shadow1">
 	どんでん返し系が見たい！
 	</button>
-	<button type = "submit" name = "submit3" value = "感動したい！！" class = "shadow1">
-	感動したい！！
+	<button type = "submit" name = "submit3" value = "感動したい！" class = "shadow1">
+	感動したい！
 	</button>
 </form>
 <br>
 <br>
-<h2>俳優とみたい作品の雰囲気から作品を検索する<h2>
+<br>
+<br>
+<br>
+<br>
+<h2>これから<h2>
+<h2>１俳優と、みたい作品の雰囲気から作品を検索する<h2>
+<h2> ２あなたのおすすめの作品を追加する<h2>
 </body>
 </html>
