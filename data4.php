@@ -20,8 +20,8 @@
 
 
 <form action = data41.php method = "POST">
-	<input type = "submit" name = "kind1" value = "実話に基づいた感動映画" class = "shadow1">
+	<input type = "submit" name = "kind1" value = "実話" class = "shadow1">
 	</br>
 	</br>
-	<input type = "submit" name = "kind2" value = "家族を題材にした感動映画" class = "shadow1">
+	<input type = "submit" name = "kind2" value = "家族がテーマ" class = "shadow1">
 </form>
